@@ -72,6 +72,7 @@ class ReactTags extends Component {
     autocomplete: false,
     readOnly: false,
     allowUnique: true,
+    tags: [],
   };
 
   constructor(props) {
